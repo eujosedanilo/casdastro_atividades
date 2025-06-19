@@ -46,4 +46,4 @@ class SistemaAtividades:
                 print(f"Atividade {id_busca} marcada como concluída.\n")
                 return
 
-        print(f"Atividade com ID {id_busca} não encontrada.\n")
+        print(f"Atividade com ID {id_busca} não encontradas.\n")
